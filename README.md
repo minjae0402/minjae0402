@@ -32,13 +32,6 @@ I'm a passionate developer with a love for learning and creating. Here's a bit a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minjae0402&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🚀 Projects
-
-Here are a few of the projects I'm working on:
-
-- [Project 1](https://github.com/minjae0402/project1) - Brief description of Project 1
-- [Project 2](https://github.com/minjae0402/project2) - Brief description of Project 2
-
 ## 🛠️ Technologies & Tools
 
 ### Frontend
