@@ -66,10 +66,6 @@ I'm a passionate developer with a love for learning and creating. Here's a bit a
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </div>
 
-## 📖 Blog
-
-- [My Tech Blog](https://medium.com/@minjae0402) - Sharing my knowledge and experiences in development.
-
 ## 📫 Contact Me
 
 <div align="center">
