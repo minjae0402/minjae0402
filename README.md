@@ -4,10 +4,6 @@
 
 I'm a passionate developer with a love for learning and creating. Here's a bit about me:
 
-- 🌱 Currently learning and growing my skills in web development and AI.
-- 🚀 Working on exciting projects that involve [React Native](https://reactnative.dev/), [Unity](https://unity.com/), and more.
-- 💬 Ask me about **React, React Native, Unity, Python, JavaScript**.
-
 ## 🏆 Baekjoon Tier
 <div align="center">
   <a href="https://solved.ac/calibes_kangminjae/" target="_blank">
