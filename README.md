@@ -10,7 +10,7 @@ I'm a passionate developer with a love for learning and creating. Here's a bit a
 
 ## 🏆 Baekjoon Tier
 
-[![Baekjoon](https://solved.ac/api/v2/users/calibes_kangminjae/profile.jpg)](https://solved.ac/calibes_kangminjae)
+[![Baekjoon](https://solved.ac/api/v2/users/minjae0402/profile.jpg)](https://solved.ac/calibes_kangminjae)
 [![Tier](https://img.shields.io/badge/Tier-Gold-FFD700?style=flat-square)](https://solved.ac/calibes_kangminjae)
 
 ## 📊 GitHub Stats
@@ -74,6 +74,10 @@ Here are a few of the projects I'm working on:
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </div>
+
+## 📖 Blog
+
+- [My Tech Blog](https://medium.com/@minjae0402) - Sharing my knowledge and experiences in development.
 
 ## 📫 Contact Me
 
