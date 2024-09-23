@@ -9,8 +9,9 @@ I'm a passionate developer with a love for learning and creating. Here's a bit a
 - 💬 Ask me about **React, React Native, Unity, Python, JavaScript**.
 
 ## 🏆 Baekjoon Tier
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=calibes_kangminjae)](https://solved.ac/calibes_kangminjae/)
+<div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=calibes_kangminjae)](https://solved.ac/calibes_kangminjae/)
+</div>
 
 ## 📊 GitHub Stats
 
