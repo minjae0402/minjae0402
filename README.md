@@ -10,8 +10,8 @@ I'm a passionate developer with a love for learning and creating. Here's a bit a
 
 ## 🏆 Baekjoon Tier
 
-[![Baekjoon](https://solved.ac/api/v2/users/minjae0402/profile.jpg)](https://solved.ac/minjae0402)
-[![Tier](https://img.shields.io/badge/Tier-Gold-FFD700?style=flat-square)](https://solved.ac/minjae0402)
+[![Baekjoon](https://solved.ac/api/v2/users/calibes_kangminjae/profile.jpg)](https://solved.ac/calibes_kangminjae)
+[![Tier](https://img.shields.io/badge/Tier-Gold-FFD700?style=flat-square)](https://solved.ac/calibes_kangminjae)
 
 ## 📊 GitHub Stats
 
