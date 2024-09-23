@@ -10,7 +10,7 @@ I'm a passionate developer with a love for learning and creating. Here's a bit a
 
 ## 🏆 Baekjoon Tier
 
-[![Baekjoon](https://solved.ac/api/v2/users/minjae0402/profile.jpg)](https://solved.ac/calibes_kangminjae)
+[![Baekjoon](https://solved.ac/api/v2/users/calibes_kangminjae/profile.jpg)](https://solved.ac/calibes_kangminjae)
 
 ## 📊 GitHub Stats
 
@@ -56,7 +56,6 @@ Here are a few of the projects I'm working on:
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </div>
 
