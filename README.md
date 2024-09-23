@@ -2,7 +2,7 @@
 
 ## 👋 Hello! I'm minjae0402
 
-I'm a passionate developer with a love for learning and creating. Here's a bit about me:
+I'm a passionate developer with a love for learning and creating. Here's a bit about me
 
 ## 🏆 Baekjoon Tier
 <div align="center">
