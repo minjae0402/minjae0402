@@ -10,8 +10,11 @@ I'm a passionate developer with a love for learning and creating. Here's a bit a
 
 ## 🏆 Baekjoon Tier
 <div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=calibes_kangminjae)](https://solved.ac/calibes_kangminjae/)
+  <a href="https://solved.ac/calibes_kangminjae/" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=calibes_kangminjae" alt="Solved.ac Profile Badge" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+  </a>
 </div>
+
 
 ## 📊 GitHub Stats
 
