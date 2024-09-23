@@ -50,6 +50,7 @@ I'm a passionate developer with a love for learning and creating. Here's a bit a
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Dart-00BFFF?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TSX-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TSX" />
 </div>
 
 ### Frontend
