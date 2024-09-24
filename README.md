@@ -24,11 +24,11 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minjae0402&theme=radical" alt="GitHub Streak" />
 </div>
-
+## 🛠️ Technologies & Tools
 <!--
 ## 🛠️ Technologies & Tools
 ### Tools/Engines
-
+-
 <div align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-333333?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 </div>
-
+-
 ### Lang
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/TSX-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TSX" />
   <img src="https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="JSX" />
 </div>
-
+-
 ### Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -66,9 +66,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-
 </div>
-
+-
 ### Backend
 <div align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -76,9 +75,8 @@
   <img src="https://img.shields.io/badge/REST%20API-4D4D4D?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-
 </div>
-
+-
 ### Other Tools & Technologies
 <div align="center">
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
