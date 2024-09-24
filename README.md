@@ -25,9 +25,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minjae0402&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🛠️ Technologies & Tools
 <!--
+## 🛠️ Technologies & Tools
 ### Tools/Engines
+
 <div align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
@@ -107,7 +108,7 @@
 </div>
 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
 
 ## 📫 Contact Me
