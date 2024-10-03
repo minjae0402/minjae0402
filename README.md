@@ -16,6 +16,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/minjae0402">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjae0402&langs_count=10&layout=compact&theme=radical&cache_seconds=3600" alt="Top Langs" />
+    </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjae0402&layout=compact&theme=radical&cache_seconds=3600" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=minjae0402&show_icons=true&theme=radical" alt="GitHub stats" />
 </div>
