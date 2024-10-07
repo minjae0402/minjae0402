@@ -3,7 +3,7 @@
 ## 👋 Hello! I'm minjae0402 
 ## ⌛ I started in 2019
 
-“Programming is like kicking yourself in the face, sooner or later your nose will bleed”
+“Programming is like kicking yourself in the face, sooner or later your nose will bleed.”
 <!--
 ## 🏆 Baekjoon Tier
 <div align="center">
