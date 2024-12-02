@@ -12,7 +12,7 @@
   </a>
 </div>
 -->
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -21,7 +21,7 @@
     </a>
   <img src="https://github-readme-stats.vercel.app/api?username=minjae0402&show_icons=true&theme=radical" alt="GitHub stats" />
 </div>
-
+-->
 ## 🔥 My Contribution Streak
 
 <div align="center">
