@@ -21,7 +21,6 @@
   
 </div>
 
-## 🔥 My Contribution Streak
 <!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minjae0402&theme=radical" alt="GitHub Streak" />
