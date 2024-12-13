@@ -1,8 +1,9 @@
-
+<!--
 ## 👋 Hello! I'm minjae0402 
 ## ⌛ I started in 2019
 
 “Programming is like kicking yourself in the face, sooner or later your nose will bleed._.”
+-->
 <!--
 ## 🏆 Baekjoon Tier
 <div align="center">
@@ -11,7 +12,7 @@
   </a>
 </div>
 -->
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -20,13 +21,13 @@
     </a>
   
 </div>
-
+-->
 <!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minjae0402&theme=radical" alt="GitHub Streak" />
 </div>
 -->
-## 🛠️ Technologies & Tools
+
 <!--
 ## 🛠️ Technologies & Tools
 ### Tools/Engines
@@ -107,13 +108,4 @@
   <img src="https://img.shields.io/badge/OpenVINO-003DA5?style=for-the-badge&logo=Intel&logoColor=white" alt="OpenVINO" />
 </div>
 -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</div>
 
-
-## 🧑‍💻 GitHub Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=minjae0402&color=blueviolet" alt="Profile Views" />
-</div>
